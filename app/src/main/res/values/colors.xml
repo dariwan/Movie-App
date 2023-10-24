@@ -6,4 +6,6 @@
     <color name="dark_blue">#242A32</color>
     <color name="blue">#0296E5</color>
     <color name="grey">#67686D</color>
+    <color name="orange">#FF8700</color>
+    <color name="grey_transparan">#B267686D</color>
 </resources>

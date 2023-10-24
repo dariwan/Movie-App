@@ -2,9 +2,9 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:drawable="@drawable/ic_setting_true"
+        android:drawable="@drawable/ic_home_search_true"
         android:state_selected="true"/>
     <item
-        android:drawable="@drawable/ic_setting_false"
+        android:drawable="@drawable/ic_home_search_false"
         android:state_selected="false"/>
 </selector>
